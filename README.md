@@ -1,0 +1,1 @@
+# responciveVerticaTabsHTML_CSS_JS
